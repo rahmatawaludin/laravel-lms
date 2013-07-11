@@ -1,4 +1,4 @@
 laravel-lms
 ===========
 
-LMS solution for school made with Laravel framework
+Module based LMS solution for school made with Laravel framework.
